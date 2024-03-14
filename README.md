@@ -11,11 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kar3rraN03/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Karerra | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Karerra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Karerra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com/
+
 [linkedin]: https://linkedin.com/in/karerra
